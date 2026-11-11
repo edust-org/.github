@@ -159,18 +159,6 @@ Edust is proprietary software. This organisation publishes the product story and
 
 ---
 
-## Documentation
-
-| Where | What |
-|---|---|
-| [edust.org/features](https://www.edust.org/features) | What each module does, in plain language |
-| [edust.org/pricing](https://www.edust.org/pricing) | Plans, limits and the 30-day trial |
-| [edust.org](https://www.edust.org) | The platform, and the product story |
-
-Our requirements are written as a full software requirements specification — one module document per capability, with numbered requirements, business rules, scenarios and worst-case edge cases. That specification, not a slide deck, is what the product is built against.
-
----
-
 ## Talk to us
 
 - **Website** — [edust.org](https://www.edust.org)
