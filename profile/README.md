@@ -16,12 +16,7 @@
   <a href="https://www.edust.org/contact"><img src="https://img.shields.io/badge/contact-talk%20to%20us-8957e5" alt="Contact"></a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.js-16-000000?logo=nextdotjs&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/NestJS-11-e0234e?logo=nestjs&logoColor=white" alt="NestJS">
-  <img src="https://img.shields.io/badge/Prisma-7-2d3748?logo=prisma&logoColor=white" alt="Prisma">
-  <img src="https://img.shields.io/badge/PostgreSQL-16-4169e1?logo=postgresql&logoColor=white" alt="PostgreSQL">
-</p>
+
 
 ---
 
@@ -164,21 +159,9 @@ If a capability is not in the list above, it is not shipped yet. We would rather
 
 ---
 
-## Built with
+## Proprietary notice
 
-A two-repo architecture: a Next.js application for the institution's interface, and a NestJS API that owns every rule, every permission check and every database transaction.
-
-```
-Next.js 16 + React + TanStack Query/Table + shadcn/ui
-                        │
-                        ▼
-        NestJS 11 REST API, versioned and documented
-                        │
-                        ▼
-              Prisma 7  →  PostgreSQL
-```
-
-Both sides are proprietary. This organisation publishes documentation and public materials; the application source is not open source.
+Edust is proprietary software. This organisation publishes the product story and documentation; the application source code, infrastructure and internal design are not public and are not open source.
 
 ---
 
