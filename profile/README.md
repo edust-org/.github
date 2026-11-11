@@ -22,13 +22,7 @@
 
 ## Why the name is **Edust**
 
-**Edust** = **Edu** + **s** + **t**:
-
-- **Edu** — education.
-- **s** — student.
-- **t** — teacher.
-
-Three letters of infrastructure, two of them people. The name states the product's boundary: a system for education that never loses sight of who it is for — the student who is taught, and the teacher who teaches.
+**Edust = Edu + s + t: Education, Student, Teacher.**
 
 An institution does not fail because it lacks software. It fails because the same student exists in five places — a register, a spreadsheet, a fee book, an exam sheet and a receipt — and every one of them can disagree with the others. Edust collapses those five into **one record per student, per organisation, per academic year**, and makes every other screen a view over it.
 
